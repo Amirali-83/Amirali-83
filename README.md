@@ -1,4 +1,4 @@
-# Amirali Sotoudeh
+# Amirali Sotoudeh Rad
 <br>
 
 I'm a software engineering student passionate about building practical, user-focused applications. I enjoy solving real-world problems through code and continuously expanding my knowledge of emerging technologies.
