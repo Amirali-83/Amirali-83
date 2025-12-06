@@ -1,5 +1,5 @@
 <h1 align="center"> Amirali Sotoudeh Rad</h1>
-<h3 align="center">Software Engineer | Developer | DevOps</h3>
+<h3 align="center">Software Engineer | Developer | DevOps | Quality Assurance </h3>
 
 <!-- Optional LinkedIn Badge -->
 <p align="center">
