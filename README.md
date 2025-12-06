@@ -29,8 +29,8 @@ My interests span across backend, frontend, mobile development, UI/UX, and scala
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0078D7.svg?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-%20-blue?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/Machine%20Learning-%20-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
