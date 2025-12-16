@@ -11,9 +11,9 @@
 ---
 
 ## 🚀 About Me
-I'm a software engineering student passionate about building practical, user-focused applications.  
+I'm a Software Engineering student passionate about building practical, user-focused applications.  
 I enjoy solving real-world problems through code and continuously expanding my knowledge of emerging technologies.  
-My interests span across backend, frontend, mobile development, UI/UX, and scalable systems.
+My interests span Artificial Intelligence, Machine Learning, Software Development, UI/UX, and scalable systems.
 
 ---
 
