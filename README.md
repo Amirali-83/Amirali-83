@@ -11,7 +11,7 @@
 ---
 
 ## About Me
-I'm a Software Engineering student passionate about building practical, user-focused applications.  
+I'm an Information and Communications Engineering Student passionate about building practical, user-focused applications.  
 I enjoy solving real-world problems through code and continuously expanding my knowledge of emerging technologies.  
 My interests span Artificial Intelligence, Machine Learning, Software Development, UI/UX, and scalable systems.
 
